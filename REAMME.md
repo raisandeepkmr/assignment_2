@@ -1,6 +1,6 @@
 # Machine Learning
 This repository contains machine learning course cs5710 assignment.<br/>
-Name: Keyurkumar Patel<br/>
+Name: Sandeep Kumar Rai<br/>
 #700: 700727688<br/>
 video link: https://drive.google.com/drive/folders/1yWr2Vr8fu9vn5QIoGcNMYKoEIeNCeADi?usp=sharing<br/>
 link is for the folder which has videos for assignment<br/>
